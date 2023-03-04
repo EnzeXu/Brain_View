@@ -1,6 +1,6 @@
 Tutorial: Brain View
 ===========================
-![example](https://user-images.githubusercontent.com/90367338/222876164-ec73f654-1239-4870-a95b-eb46fa30933f.png)
+![example](https://user-images.githubusercontent.com/90367338/222876561-46612718-3baa-427a-88d0-264c5d953a2e.png)
 ===========================
 
 # Catalog
